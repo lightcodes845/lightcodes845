@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**lightcodes845/lightcodes845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lightcodes845/lightcodes845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hello, I'm Falola Damilare! 👋
 
