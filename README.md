@@ -13,15 +13,26 @@
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/damilare-falola-66aa3989/)
 
+## 📈 GitHub Stats
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=lightcodes845&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/lightcodes845)
+
+## 🔥 Streak Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lightcodes845)
+
+
 ## 👨‍💼 Professional Experience
 
 - **Software Engineer** at CUBRe (2020 - Present)
    - Architecting and building full stack web applications.
+   - Maintaining internal applications.
 - **Software Developer** at Plab2 Accommodations (2022 - 2023)
-   - Engineering full stack applications.
+   - Engineered and developed full stack applications.
    - SEO and Google analytics.
 - **Frontend Engineer** at Homefort Energy (2022 - 2023)
-   - Creating React web applications from Figma designs.
+   - Created React web applications from Figma designs.
 
 ## 🛠 Skills
 
@@ -54,23 +65,13 @@
   - Familiar with Bare Metal infrastructure.
 
 
-## 📈 GitHub Stats
-
-![Your github stats](https://github-readme-stats.vercel.app/api?username=lightcodes845&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/lightcodes845)
-
-## 🔥 Streak Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lightcodes845)
-
-
 ## 💼 Projects
 
 - **[Sysbiol PGWAS]([Project Link](https://spgwas.waslitbre.org/))**
    - This application allows scientists, bioinformaticians, and students to execute Post Genome Wide Association Study (PGWAS) analysis easily. The application contains several PGWAS analysis tools and was built to be a one-stop shop for PGWAS analysis.
 - **Plab Accommodations([Project Link](https://plab2accommodations.co.uk/))**
    - This application provides means for the doctors and non-doctors to seamlessly book their rooms or beds for their period of stay in the UK. 
-- **Plab2 Accommodations Management Application([[Project Link](https://plab2accommodations.co.uk/)](https://plab2-user-2d81fe648802.herokuapp.com/))**
+- **Plab2 Accommodations Management Application([Project Link](https://plab2-user-2d81fe648802.herokuapp.com))**
    - This application includes features to help Plab2 accommodation bookers manage their stay in one of their apartments. It includes features like real-time bus tracking, booking of taxis, getting information about their accommodation in the application.
 - **Gas Flow**
    - This is a dashboard application that deals with the management of the sales of gas at various Gas Plants.
