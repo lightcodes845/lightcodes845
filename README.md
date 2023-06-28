@@ -17,7 +17,8 @@
 
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=lightcodes845&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/lightcodes845)
+<!-- ![Profile views](https://gpvc.arturio.dev/[lightcodes845]) -->
+[![HitCount](http://hits.dwyl.com/lightcodes845/lightcodes845.svg)](http://hits.dwyl.com/lightcodes845/lightcodes845)
 
 ## 🔥 Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lightcodes845)
