@@ -23,7 +23,7 @@
 ## 🔥 Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lightcodes845)
 
-
+<!--
 ## 👨‍💼 Professional Experience
 
 - **Software Engineer** at CUBRe (2020 - Present)
@@ -33,7 +33,7 @@
    - Engineered and developed full stack applications.
    - SEO and Google analytics.
 - **Frontend Engineer** at Homefort Energy (2022 - 2023)
-   - Created React web applications from Figma designs.
+   - Created React web applications from Figma designs. -->
 
 ## 🛠 Skills
 
