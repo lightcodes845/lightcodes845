@@ -80,5 +80,5 @@
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/damilare-falola-66aa3989/)
+- LinkedIn: [damilare-falola](https://www.linkedin.com/in/damilare-falola-66aa3989/)
 - Email: [darefalola7@gmail.com](mailto:darefalola7@gmail.com)
