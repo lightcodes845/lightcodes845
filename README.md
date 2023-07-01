@@ -70,12 +70,12 @@
 
 - **[Sysbiol PGWAS]([Project Link](https://spgwas.waslitbre.org/))**
    - This application allows scientists, bioinformaticians, and students to execute Post Genome Wide Association Study (PGWAS) analysis easily. The application contains several PGWAS analysis tools and was built to be a one-stop shop for PGWAS analysis.
+- **Gas Flow (Offline Application) ([Demo Link](http://gasflow.s3-website.eu-central-1.amazonaws.com/))**
+   - This is a dashboard application that deals with the management of the sales of gas at various Gas Plants.
 - **Plab Accommodations([Project Link](https://plab2accommodations.co.uk/))**
    - This application provides means for the doctors and non-doctors to seamlessly book their rooms or beds for their period of stay in the UK. 
 - **Plab2 Accommodations Management Application([Project Link](https://plab2-user-2d81fe648802.herokuapp.com))**
    - This application includes features to help Plab2 accommodation bookers manage their stay in one of their apartments. It includes features like real-time bus tracking, booking of taxis, getting information about their accommodation in the application.
-- **Gas Flow (Offline Application)**
-   - This is a dashboard application that deals with the management of the sales of gas at various Gas Plants.
 
 
 ## 🤝 Connect with Me
