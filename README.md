@@ -6,7 +6,7 @@
 # Hello, I'm Falola Damilare! 👋
 
 - 🏢 I'm currently working at **Covenant University Bioinformatics REsearch**
-- 🚀 I have **4 years** of experience in **Software Engineering**
+- 🚀 I have over **10 years** experience in programming and **4 years** of experience in **Fullstack Web Development**
 - 🌱 I’m currently exploring **Health based challenges** for better innovations
 - 🤝 Open to collaborate on innovative projects
 - 💬 Let’s get social
