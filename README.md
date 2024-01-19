@@ -47,13 +47,15 @@
   - Experience in developing Progressive Web Applications (PWA).
 - **Back-End Development**
   - Proficient in NodeJS, with experience in Express and NestJS.
-  - Experienced in developing backends using Python’s Django framework.
+  - Experienced in developing backends using Python’s Django framework and asynchronous FastAPI.
   - Skilled in GraphQL development.
   - Upcoming in Java and Spring Framework.
-  - Experience in implementing Microservices architecture.
+  - Experience in implementing Microservices architecture (Event based and gRPC).
 - **Databases & ORMs**
   - Proficient in MongoDB and PostgreSQL.
   - Experienced in using Object-Relational Mappers such as Mongoose, TypeORM, and Django ORM.
+  - Experience with Python's Pymongo and Motor for working with MongoDB
+  - Experience with SQLAlchemy
 - **Deployment & CI/CD**
   - Proficient in containerization using Docker.
   - Experienced in orchestrating deployments with Kubernetes (Helm).
@@ -62,6 +64,7 @@
 - **Testing**
   - Proficient in writing unit tests with Jest.
   - Experienced in React Testing Library (RTL) for testing React components.
+  - Experience with writing unit tests with Pytest
 - **Cloud Infrastructure**
   - Experienced in managing and deploying on cloud platforms including AWS (EC2, Lambda, RDS, Route53, API Gateway, S3, Amplify etc.), DigitalOcean, and Heroku.
   - Familiar with Bare Metal infrastructure.
