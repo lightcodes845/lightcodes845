@@ -5,8 +5,8 @@
 
 # Hello, I'm Falola Damilare! 👋
 
-- 🏢 I'm currently working at **Covenant University Bioinformatics REsearch**
-- 🚀 I have over **10 years** experience in programming and **4 years** of experience in **Fullstack Web Development**
+- 🏢 I'm currently working on solving health based problems with software technologies and scientific research.
+- 🚀 I have several years of experience in programming and in **Fullstack Web Development**
 - 🌱 I’m currently exploring **Health based challenges** for better innovations
 - 🤝 Open to collaborate on innovative projects
 - 💬 Let’s get social
@@ -26,12 +26,14 @@
 <!--
 ## 👨‍💼 Professional Experience
 
-- **Software Engineer** at CUBRe (2020 - Present)
+- **Software Engineer** at CUBRe (2020 - 2024)
    - Architecting and building full stack web applications.
    - Maintaining internal applications.
 - **Software Developer** at Plab2 Accommodations (2022 - 2023)
-   - Engineered and developed full stack applications.
+   - Engineered, developed and maintained full stack applications for the company.
    - SEO and Google analytics.
+- **Software Developer** at Britlux Staycation (2022 - 2023)
+   - Engineered and developed the company's full stack application.
 - **Frontend Engineer** at Homefort Energy (2022 - 2023)
    - Created React web applications from Figma designs. -->
 
